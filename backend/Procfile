@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT atlas_gemstones_4364.wsgi:application

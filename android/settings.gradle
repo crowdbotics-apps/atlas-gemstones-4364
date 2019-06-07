@@ -1,0 +1,3 @@
+rootProject.name = 'atlas_gemstones_4364'
+
+include ':app'
